@@ -6,8 +6,8 @@
     <session-factory>
         <property name="connection.url">jdbc:mysql://localhost:3306/ERP?createDatabaseIfNotExist=true&amp;useSSL=false&amp;allowPublicKeyRetrieval=true</property>
         <property name="connection.driver_class">com.mysql.cj.jdbc.Driver</property>
-        <property name="connection.username">ram</property>
-        <property name="connection.password">ram121</property>
+        <property name="connection.username">***</property>
+        <property name="connection.password">****</property>
 
         <!-- DB schema will be updated if needed -->
         <property name="hibernate.hbm2ddl.auto">update</property>
